@@ -9,18 +9,22 @@ The Employee Management System (EMS) is a full-stack web application designed to
 ## Table of Contents
 
 1. [Project Structure](#project-structure)
+
 2. [Frontend (ems-fronted)](#frontend-ems-fronted)
    - [Tech Stack](#frontend-tech-stack)
    - [Key Features](#frontend-key-features)
    - [Component Structure](#frontend-component-structure)
    - [How to Run](#frontend-how-to-run)
+
 3. [Backend (ems-backend)](#backend-ems-backend)
-   – [Tech Stack](#backend-tech-stack)
-   – [Key Features](#backend-key-features)
-   – [API Endpoints](#backend-api-endpoints)
-   – [Data Model](#backend-data-model)
-   – [How to Run](#backend-how-to-run)
+   - [Tech Stack](#backend-tech-stack)
+   - [Key Features](#backend-key-features)
+   - [API Endpoints](#backend-api-endpoints)
+   - [Data Model](#backend-data-model)
+   - [How to Run](#backend-how-to-run)
+
 4. [Development & Contribution](#development--contribution)
+
 5. [License](#license)
 
 ---
@@ -156,11 +160,11 @@ ems/
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT Lice
 
 
 
-# ems![Screenshot (8)](https://github.com/user-attachments/assets/dbfd1f9c-98b6-473a-b461-e4bce0c8cee2)
+![Screenshot (8)](https://github.com/user-attachments/assets/dbfd1f9c-98b6-473a-b461-e4bce0c8cee2)
 ![Screenshot (9)](https://github.com/user-attachments/assets/cf3dfab4-c5d2-41fc-af72-d5a0a9a284fa)
 ![Screenshot (10)](https://github.com/user-attachments/assets/765d7dc0-e0b4-4d50-b299-2f75b341f12f)
 ![Screenshot (11)](https://github.com/user-attachments/assets/047c5c81-843d-4fc4-bfa8-2ac65201bb77)
